@@ -1,0 +1,2 @@
+# CopyOfWordsOfWonders
+A clone game
